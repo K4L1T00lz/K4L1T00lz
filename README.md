@@ -18,4 +18,3 @@ wget https://raw.githubusercontent.com/K4L1T00lz/KAL1T00lz/main/install.sh
 [2] Run the script :
 
 sudo bash install.sh
-
